@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+
+# Visual Studio intermediate files
+*.tlog
+*.log
+*.idb
+*.ilk
+
+# User-specific files
+*.vcxproj.user
