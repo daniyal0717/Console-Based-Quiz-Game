@@ -1,0 +1,40 @@
+========================================
+Player: Daniyal
+Date & Time: 2025-12-09 21:35:14
+Category: Sports
+Difficulty: Easy
+Questions Correct: 7
+Questions Wrong: 2
+Total Score: 13/10
+========================================
+
+========================================
+Player: Daniyal
+Date & Time: 2025-12-09 21:36:26
+Category: Sports
+Difficulty: Easy
+Questions Correct: 4
+Questions Wrong: 6
+Total Score: -3/10
+========================================
+
+========================================
+Player: zain
+Date & Time: 2025-12-09 21:42:51
+Category: IQ
+Difficulty: Medium
+Questions Correct: 8
+Questions Wrong: 1
+Total Score: 30/10
+========================================
+
+========================================
+Player: Daniyal
+Date & Time: Feb  5 202618:58:15
+Category: Sports
+Difficulty: Medium
+Questions Correct: 2
+Questions Wrong: 7
+Total Score: -19/10
+========================================
+
